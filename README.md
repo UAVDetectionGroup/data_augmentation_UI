@@ -20,3 +20,5 @@
   使得objects为小目标要增强的种类  
  2.直接运行main.py即可  
  3.<img width="754" alt="image" src="https://github.com/UAVDetectionGroup/data_augmentation_UI/assets/107593840/de78d49f-af1d-4fd0-9592-b4a293393bf5"> 
+ 4.选择图片地址，xml文件地址，图片保存地址，xml文件保存地址即可
+ 注：噪声处理，mixup，小目标等都是单张图片进行数据增强。如想全部增强需要一键生成所以即可将数据集进行全部噪声处理，mixup，小目标，cutmix，cyclegan等  
